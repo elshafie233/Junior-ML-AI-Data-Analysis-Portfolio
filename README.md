@@ -1,6 +1,6 @@
 <div align="center">
 
-# Junior ML & AI Portfolio
+# Junior ML , AI & Data Analysis Portfolio
 
 ### Python · Data Analysis · Machine Learning Fundamentals · Data Visualization
 
